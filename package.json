@@ -1,0 +1,11 @@
+{
+  "name": "project-m2l1-simpleserver",
+  "version": "1.0.0",
+  "description": "Our First Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranay",
+  "license": "ISC"
+}
